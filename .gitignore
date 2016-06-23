@@ -1,0 +1,7 @@
+.vagrant/
+
+land-polygons-split-3857.zip
+simplified-land-polygons-complete-3857.zip
+
+osm-bright/shp
+osm-bright/shp/*
