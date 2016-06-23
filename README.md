@@ -1,6 +1,8 @@
 # OSMSwiss-Server
 <img align="right" alt="screenshot" src="img/screenshot.png" />
 
+
+
 ## What is it about?
 OSMSwiss-Server is a box to develop, style and create beautiful maps in TileMill2
 The example is based on osm-bright provided by: https://github.com/mapbox/osm-bright
